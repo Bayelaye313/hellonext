@@ -52,5 +52,4 @@ const StartupCard = ({ post }) => {
     </li>
   );
 };
-
 export default StartupCard;
